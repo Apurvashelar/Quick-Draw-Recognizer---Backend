@@ -3,7 +3,7 @@
 ### Clone This Repository  
 
 git clone https://github.com/Apurvashelar/Quick-Draw-Recognizer---Backend  
-cd quick-draw-recogniser  
+cd quick-draw recognizer  
 
 
 ### Installation Requirements 
